@@ -96,7 +96,7 @@ def add_to_cart(melon_id):
 # def show_login():
 #     """Show login form."""
 
-#     return render_template("login.html")
+#     return render_template("login.html"
 
 
 @app.route("/login", methods=["POST"])
